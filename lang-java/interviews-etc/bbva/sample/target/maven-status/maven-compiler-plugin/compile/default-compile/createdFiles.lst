@@ -1,0 +1,12 @@
+com/bbva/fx/marketdata/MarketDataSource.class
+com/bbva/fx/pricing/DefaultVwapCalc.class
+com/bbva/fx/pricing/VwapCalculationTest.class
+com/bbva/fx/marketdata/MarketDepthListener.class
+com/bbva/fx/marketdata/SimulatedVenueMarketDataSource.class
+com/bbva/fx/pricing/TwowayVwap.class
+com/bbva/fx/common/Action.class
+com/bbva/fx/common/CurrencyPair.class
+com/bbva/fx/marketdata/MarketDepthDelta.class
+com/bbva/fx/marketdata/MarketDepthUpdate.class
+com/bbva/fx/marketdata/SimulatedVenueMarketDataSource$RateGeneratorThread.class
+com/bbva/fx/pricing/VwapCalc.class

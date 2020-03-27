@@ -1,0 +1,16 @@
+UNIX Tips
+
+Getting file size in human readable
+
+ls -lh pom.xml
+-rw-r--r--  1 sujayjayaram  staff    99K 14 Jan 15:30 pom.xml
+
+getting just the filesize
+ls -lrt pom.xml | awk '{print $5}'
+
+Find the largest file in a source tree (size is column 5), sort -n treats it as a number
+find . -name *.scala | xargs ls -ltr | awk '{print $5}' | sort -n
+
+
+Find text in a file from a root dir
+find . -name *.scala | xargs grep -l asCsvReader

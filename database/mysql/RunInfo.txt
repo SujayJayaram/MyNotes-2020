@@ -1,0 +1,11 @@
+Added Roor User:
+http://macossierra-slow.com/enable-root-user-macos-sierra/
+
+*** Pwd for root = NT01
+*** Pwd for mysql root = NT01
+mysql -u root -p NT01
+
+https://coolestguidesontheplanet.com/get-apache-mysql-php-and-phpmyadmin-working-on-macos-sierra/
+
+sudo /usr/local/mysql/support-files/mysql.server start
+sudo /usr/local/mysql/support-files/mysql.server stop

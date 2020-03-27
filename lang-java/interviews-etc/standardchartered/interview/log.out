@@ -1,0 +1,438 @@
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+getAge() called
+getRate() returns 9.0
+checkValidReg() called
+getAge() called
+getAge() called
+checkValidReg() called
+getAge() called
+getAge() called
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+getAge() called
+getRate() returns 9.0
+checkValidReg() called
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+checkValidReg() called
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+getAge() called
+getRate() returns 9.0
+checkValidReg() called
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+getAge() called
+getRate() returns 9.0
+checkValidReg() called
+testAge() called
+checkValidReg() called
+getAge() called
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+checkValidReg() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+getAge() called
+getRate() returns 9.0
+checkValidReg() called
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+getAge() called
+getRate() returns 9.0
+checkValidReg() called
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+getAge() called
+getRate() returns 9.0
+checkValidReg() called
+checkValidReg() called
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+getAge() called
+getRate() returns 9.0
+checkValidReg() called
+checkValidReg() called
+checkValidReg() called
+checkValidReg() called
+checkValidReg() called
+getClient() called for rg=HT07 UBH
+checkValidReg() called
+checkValidReg() called
+getClient() called for rg=HT07 UBH
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+checkValidReg() called
+checkValidReg() called
+hire() called for name=Fred Smith reg=HT07 UBH start=02/02/2016 days=10 rate=10.0
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+getClient() called for rg=HT07 UBH
+hire() called
+checkValidReg() called
+checkValidReg() called
+hire() called for name=Fred Smith reg=HT07 UBH start=92/02/2016 days=10 rate=10.0
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+getClient() called for rg=HT07 UBH
+checkValidReg() called
+checkValidReg() called
+hire() called for name=Fred Smith reg=HT07 UBH start=92/02/2016 days=10 rate=10.0
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+getClient() called for rg=HT07 UBH
+checkValidReg() called
+checkValidReg() called
+markReturned() called for hireno=99
+release() called
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+getAge() called
+getRate() returns 9.0
+checkValidReg() called
+checkValidReg() called
+checkValidReg() called
+getClient() called for rg=HT07 UBH
+markReturned() called for hireno=99
+release() called
+hire() called for name=Fred Smith reg=HT07 UBH start=92/02/2016 days=10 rate=10.0
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+getClient() called for rg=HT07 UBH
+hire() called for name=Fred Smith reg=HT07 UBH start=02/02/2016 days=10 rate=10.0
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+getClient() called for rg=HT07 UBH
+hire() called
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+getAge() called
+getRate() returns 9.0
+checkValidReg() called
+checkValidReg() called
+checkValidReg() called
+getClient() called for rg=HT07 UBH
+markReturned() called for hireno=99
+release() called
+hire() called for name=Fred Smith reg=HT07 UBH start=92/02/2016 days=10 rate=10.0
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+getClient() called for rg=HT07 UBH
+hire() called for name=Fred Smith reg=HT07 UBH start=02/02/2016 days=10 rate=10.0
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+getClient() called for rg=HT07 UBH
+hire() called
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+testGetRateForCar() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+getAge() called
+getRate() returns 9.0
+testGetRateForBike() called
+checkValidReg() called
+init() called
+checkValidReg() called
+checkValidReg() called
+testGetVehicleDetails() called
+getClient() called for rg=HT07 UBH
+testMarkReturned() called
+markReturned() called for hireno=99
+release() called
+testHireBadDate() called
+hire() called for name=Fred Smith reg=HT07 UBH start=92/02/2016 days=10 rate=10.0
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+getClient() called for rg=HT07 UBH
+testHireGoodDate() called
+hire() called for name=Fred Smith reg=HT07 UBH start=02/02/2016 days=10 rate=10.0
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+getClient() called for rg=HT07 UBH
+hire() called
+testGetClient() called
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+testAge() called
+checkValidReg() called
+getAge() called
+testRegChars() called
+checkValidReg() called
+checkValidReg() called
+testIncorrectRegChars() called
+checkValidReg() called
+testGetRateForCar() called
+checkValidReg() called
+FileName set to interview.properties
+ConfigurationUtils.locate(): base is null, name is interview.properties
+Could not locate file interview.properties at null: no protocol: interview.properties
+Loading configuration from the context classpath (interview.properties)
+Base path set to file:///Users/sujayjayaram/dev/standardchartered/interview/target/classes/interview.properties
+getAge() called
+getRate() returns 9.0
+getAge() called
+getRate() returns 9.0
+testGetRateForBike() called
+checkValidReg() called
+init() called
+checkValidReg() called
+checkValidReg() called
+testGetVehicleDetails() called
+getClient() called for rg=HT07 UBH
+testMarkReturned() called
+markReturned() called for hireno=99
+release() called
+testHireBadDate() called
+hire() called for name=Fred Smith reg=HT07 UBH start=92/02/2016 days=10 rate=10.0
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+getClient() called for rg=HT07 UBH
+testHireGoodDate() called
+hire() called for name=Fred Smith reg=HT07 UBH start=02/02/2016 days=10 rate=10.0
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+getClient() called for rg=HT07 UBH
+hire() called
+testGetClient() called
+getClient() called for name=Fred Smith licenseNumber=UKQW6757
+FileName set to javademo.properties
+ConfigurationUtils.locate(): base is null, name is javademo.properties
+Could not locate file javademo.properties at null: no protocol: javademo.properties
+Loading configuration from the context classpath (javademo.properties)
+Base path set to file:///Users/sujayjayaram/dev/javademos/target/classes/javademo.properties
+FileName set to javademo.properties
+ConfigurationUtils.locate(): base is null, name is javademo.properties
+Could not locate file javademo.properties at null: no protocol: javademo.properties
+Loading configuration from the context classpath (javademo.properties)
+Base path set to file:///Users/sujayjayaram/dev/javademos/target/classes/javademo.properties
+FileName set to javademo.properties
+ConfigurationUtils.locate(): base is null, name is javademo.properties
+Could not locate file javademo.properties at null: no protocol: javademo.properties
+Loading configuration from the context classpath (javademo.properties)
+Base path set to file:///Users/sujayjayaram/dev/javademos/target/classes/javademo.properties
+FileName set to javademo.properties
+ConfigurationUtils.locate(): base is null, name is javademo.properties
+Could not locate file javademo.properties at null: no protocol: javademo.properties
+Loading configuration from the context classpath (javademo.properties)
+Base path set to file:///Users/sujayjayaram/dev/javademos/target/classes/javademo.properties
+FileName set to javademo.properties
+ConfigurationUtils.locate(): base is null, name is javademo.properties
+Could not locate file javademo.properties at null: no protocol: javademo.properties
+Loading configuration from the context classpath (javademo.properties)
+Base path set to file:///Users/sujayjayaram/dev/javademos/target/classes/javademo.properties
+FileName set to javademo.properties
+ConfigurationUtils.locate(): base is null, name is javademo.properties
+Could not locate file javademo.properties at null: no protocol: javademo.properties
+Loading configuration from the context classpath (javademo.properties)
+Base path set to file:///Users/sujayjayaram/dev/javademos/target/classes/javademo.properties
+Creating thread 0
+Creating thread 1
+Creating thread 2
+Creating thread 3
+Creating thread 4
+Creating thread 5
+Creating thread 6
+Creating thread 7
+Creating thread 8
+Creating thread 9
+Creating thread 10
+Creating thread 11
+Creating thread 12
+Creating thread 13
+Creating thread 14
+Creating thread 15
+Creating thread 16
+Creating thread 17
+Creating thread 18
+Creating thread 19
+Waiting for all threads to wait on latch

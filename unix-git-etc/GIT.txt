@@ -1,0 +1,20 @@
+GIT Tips
+
+http://kbroman.org/github_tutorial/pages/init.html
+
+From command prompt
+git config --global user.name "Sujay Jayaram"
+git config --global user.email "sujay_jayaram@hotmail.com"
+
+git config --global color.ui true
+git config --global core.editor vi
+
+
+# To create a new repo
+git init
+git add .
+git commit -m "first proper cut of teamsearch"
+
+
+
+git clone https://github.com/SujayJayaram/functiondefs

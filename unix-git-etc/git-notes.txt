@@ -1,0 +1,68 @@
+These are the notes I followed when creating this Repo from GitHub
+-------------------------------------------------------------------
+echo "# MyNotes-2020" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/SujayJayaram/MyNotes-2020.git
+git push -u origin master
+
+***** To remove a file or dir:
+git rm -fr springbootdemo
+git commit -m "my message"
+git push
+
+
+Nauman Git Lesson
+-----------------
+mkdir temp
+cd temp
+
+// Copy the remote repo on to your local machine
+git clone https://github.com/nmir/leaving-card
+cd leaving-card
+
+// create a new branch - locally
+git checkout -b sujays-work2
+// or if branch exists
+git checkout sujays-work2
+
+[I imported the pom.xml file into Intellij at this point]
+
+// Edit a file here...
+
+// git commit
+git commit -am "git commit"
+
+// git push (for the first time) - this creates a new branch called sujays-work2 on the remote server
+git push --set-upstream origin sujays-work2
+
+// git push (subsequents)
+git push
+
+// fetch 'server's view' of a branch and update your local repo
+git fetch origin master (refresh 'your' view of the master from server)
+git rebase origin/master (rebase against master)
+(or git merge origin/master)
+========
+git remote -v (tells you the remote server that the clone is linked to)
+git checkout <branch-name>
+git status (current state of local repo)
+git rebase --abort
+
+git stash (push to local temp stack - this clears your local repo)
+git stash apply (pop the last stashed unit of work from stack and into your local working dir)
+git branch
+
+--------
+
+// Get the latest checked in changes from master branch from origin (remote server)
+git fetch origin master
+
+// merge the locally fetched version of master into this branch
+git merge origin master
+
+git status
+git push
+
+

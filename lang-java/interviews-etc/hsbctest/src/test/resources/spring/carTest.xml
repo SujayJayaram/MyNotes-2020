@@ -1,0 +1,13 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+    <bean id="car" class="com.interview.impl.BoundedCar">
+        <constructor-arg index="0" value="1"/>
+        <constructor-arg index="1" value="1"/>
+        <constructor-arg index="2" value="NORTH"/>
+        <constructor-arg index="3" value="5"/>
+        <constructor-arg index="4" value="5"/>
+    </bean>
+</beans>
