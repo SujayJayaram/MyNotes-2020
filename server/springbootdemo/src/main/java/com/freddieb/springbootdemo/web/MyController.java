@@ -21,6 +21,15 @@ public class MyController {
         return cities;
     }
 
+    // Change the produces type and we get xml instead
+    @GetMapping(value = "/cities2", produces = { "application/xml", "text/xml" })
+    public List<City> getCities2() {
+
+        List<City> cities = cityService.findAll();
+
+        return cities;
+    }
+
     // Need jackson-dataformat-xml in pom.xml
     @RequestMapping(value = "/citiesXml", method = RequestMethod.GET, produces = { "application/xml", "text/xml" }, consumes = MediaType.ALL_VALUE )
     @ResponseBody
