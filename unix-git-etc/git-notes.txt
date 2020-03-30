@@ -12,6 +12,13 @@ git rm -fr springbootdemo
 git commit -m "my message"
 git push
 
+**** To remove cached credentials on MAC Unix
+git credential-osxkeychain erase
+host=github.com
+protocol=https
+
+# [Now Press Return]
+(Make sure there is an empty line)
 
 Nauman Git Lesson
 -----------------
