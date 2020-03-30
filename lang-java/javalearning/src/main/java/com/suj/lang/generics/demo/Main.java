@@ -1,4 +1,4 @@
-package com.suj.generics;
+package com.suj.lang.generics.demo;
 
 import java.util.ArrayList;
 import java.util.List;

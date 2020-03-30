@@ -1,5 +1,6 @@
-package com.suj.generics;
+package com.suj.lang.generics.demo;
 
+// **** Also so Main class
 public class TemplateDemo<T extends  Fruit> {
 
     private T myT;

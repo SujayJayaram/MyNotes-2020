@@ -11,11 +11,19 @@ import java.util.HashMap;
  */
 public class GenericFactory {
 
-    public static <K,V> HashMap<K,V> newHashMap() {
+    public static <K,V> HashMap<K,V> newHashMap(K k, V v) {
         return new HashMap<K, V>();
     }
 
     public static <E> ArrayList<E> newArrayList() {
         return new ArrayList<E>();
+    }
+
+
+    public static void main(String[] args) {
+
+        HashMap<Integer, String> map = GenericFactory.newHashMap(0, "Fred");
+
+
     }
 }

@@ -10,6 +10,7 @@ import java.util.stream.Stream;
  * Created by sujayjayaram on 29/01/2016.
  * See http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
  */
+@SuppressWarnings("Duplicates")
 public class Demo2 {
     // Monad = pipeline based class
 
