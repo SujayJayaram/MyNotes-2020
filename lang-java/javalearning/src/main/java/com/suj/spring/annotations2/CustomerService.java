@@ -11,7 +11,7 @@ import javax.annotation.Resource;
 // Annotate to tell Spring to examine this class at startup
 // Without this annotation we get the exception:
 // Exception in thread "main" org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'customerService' is defined
-@Component
+@Component("customerServiceAutowired")
 public class CustomerService
 {
     //@Autowired (both do the same thing)
