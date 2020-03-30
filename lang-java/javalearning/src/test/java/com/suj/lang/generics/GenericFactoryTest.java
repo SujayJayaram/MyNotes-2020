@@ -16,7 +16,7 @@ public class GenericFactoryTest {
 
     @Test
     public void testNewHashMap() throws Exception {
-        HashMap<Integer, String> map1 = newHashMap();
+        HashMap<Integer, String> map1 = newHashMap(0, "fred");
 
         HashMap<Integer, String> map2 = new HashMap<>();
 
