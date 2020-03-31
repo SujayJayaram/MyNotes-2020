@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8a41031-8daf-47a1-b2e2-dab8a95340f0" name="Default" comment="" />
+    <list default="true" id="e8a41031-8daf-47a1-b2e2-dab8a95340f0" name="Default" comment="HackerRank tests">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/array2d/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/leftrotation/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/repeatedstring/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/repeatedstring/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="7b098031-0bd7-48c2-82c7-3586e43d627e" name="DONOTCOMMIT" comment="">
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.fxtest.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.idea/.compiler.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.idea/.encodings.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.idea/.misc.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.idea/.modules.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/sample/.idea/.compiler.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/sample/.idea/.encodings.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/sample/.idea/.misc.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/sample/.idea/.modules.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/sample/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/sample/.sample.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/.carhire.zip.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/interview/.idea/.compiler.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/interview/.idea/.encodings.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/interview/.idea/.misc.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/interview/.idea/.modules.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/interview/.interview.iml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/interview/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.log.out.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/.javalearning.properties.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/.log4j.properties.icloud" beforeDir="false" />
+    </list>
     <ignored path="javalearning.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,47 +82,52 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1608337060">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="56" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="56" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2749" />
+          <entry key="txt" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2749" />
+          <entry key="PLAIN_TEXT" value="70" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="javalearning" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/functiondefs/MarketNewswire1.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/leftrotation/Solution1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="975">
+              <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/functiondefs/MarketNewswire2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/functiondefs/MarketNewswire2FuncDefs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/functiondefs/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -115,29 +150,20 @@
       <find>hamcrest</find>
       <find>FutureTas</find>
       <find>template</find>
+      <find>SuppressWarnings</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/src/main/java/com/suj</dir>
+      <dir>$PROJECT_DIR$/src</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/lang/collections/MyMap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/lang/collections/pecs/SujayTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/suj/tmp/PermuationsBigO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/problems/Fibonnaci3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/problems/sumofcubes/Result.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/suj/problems/sumofcubes/ResultTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/problems/sumofcubes/SumOfCubes1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/problems/sumofcubes/SumOfCubes2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/problems/sumofcubes/Result3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/problems/sumofcubes/SumOfCubes3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/problems/mostfrequentiteminarray/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/problems/firstcharappearingonlyonce/FirstCharAppearingOnlyOnce.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/problems/bitwise/CopyOneBitPatternIntoAnother.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/trees/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suj/trees/BinaryTreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suj/trees/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suj/trees/BinarySearchTreeNode.java" />
@@ -167,6 +193,28 @@
         <option value="$PROJECT_DIR$/src/main/java/com/suj/functiondefs/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suj/functiondefs/MarketNewswire2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suj/functiondefs/MarketNewswire2FuncDefs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/withoutannotations/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/CustomerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/MyAppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/bestdemoannotations/BestDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/bestdemoannotations/BestDemoConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/bestdemoannotations/BestDemoDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/bestdemoannotations/BestDemoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/lang/functional/streams1/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/lang/functional/streams2/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/lang/functional/streams2/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/lang/generics/GenericFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/suj/lang/generics/demo/TemplateDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/suj/lang/generics/GenericFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/sockmerchant/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/sockmerchant/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/countingvalleys/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/jumpingontheclouds/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/repeatedstring/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/repeatedstring/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/array2d/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/leftrotation/Solution1.java" />
       </list>
     </option>
   </component>
@@ -200,10 +248,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
-    <option name="y" value="85" />
-    <option name="width" value="2059" />
-    <option name="height" value="1251" />
+    <option name="x" value="53" />
+    <option name="y" value="51" />
+    <option name="width" value="2492" />
+    <option name="height" value="1308" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -247,9 +295,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -290,7 +337,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="suj" type="462c0819:PsiDirectoryNode" />
+              <item name="interviewprepkit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
@@ -299,8 +346,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="suj" type="462c0819:PsiDirectoryNode" />
-              <item name="functiondefs" type="462c0819:PsiDirectoryNode" />
+              <item name="interviewprepkit" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
@@ -332,14 +379,11 @@
               <item name="suj" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,7 +392,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579341440975" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585652557245" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -366,14 +410,15 @@
       <recent name="com.suj.sorting" />
       <recent name="com.suj.problems.sumofcubes" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.suj.functiondefs" />
-      <recent name="com.suj.sorting" />
-      <recent name="com.suj.problems.sumofcubes" />
-      <recent name="com.suj.problems" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hackerrank.practice.interviewprepkit.warmupchallenges.repeatedstring" />
+      <recent name="com.hackerrank.practice.interviewprepkit.warmupchallenges.sockmerchant" />
+      <recent name="com.suj.spring.bestdemoannotations" />
+      <recent name="com.suj.functiondefs" />
+      <recent name="com.suj.sorting" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -388,7 +433,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollectionsDemo">
+  <component name="RunManager" selected="Application.Solution1 (3)">
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -446,13 +491,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayLessThanIndexSolverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.suj.deutsche.ArrayLessThanIndexSolverTest" />
+    <configuration name="BestDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suj.spring.bestdemoannotations.BestDemoApp" />
       <module name="javalearning" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.suj.deutsche.*" />
+          <option name="PATTERN" value="com.suj.spring.bestdemoannotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -460,13 +505,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.suj.lang.collections.CollectionsDemo" />
+    <configuration name="Solution1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.practice.interviewprepkit.warmupchallenges.repeatedstring.Solution1" />
       <module name="javalearning" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.suj.lang.collections.*" />
+          <option name="PATTERN" value="com.hackerrank.practice.interviewprepkit.warmupchallenges.repeatedstring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.practice.interviewprepkit.arrays.array2d.Solution1" />
+      <module name="javalearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerrank.practice.interviewprepkit.arrays.array2d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.practice.interviewprepkit.arrays.leftrotation.Solution1" />
+      <module name="javalearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerrank.practice.interviewprepkit.arrays.leftrotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.practice.interviewprepkit.warmupchallenges.sockmerchant.Solution1" />
+      <module name="javalearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerrank.practice.interviewprepkit.warmupchallenges.sockmerchant.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -476,60 +563,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayLessThanIndexSolverTest.getLessThanIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javalearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.suj.deutsche.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.suj.deutsche" />
-      <option name="MAIN_CLASS_NAME" value="com.suj.deutsche.ArrayLessThanIndexSolverTest" />
-      <option name="METHOD_NAME" value="getLessThanIndex" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BubbleSortTest.sort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javalearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.suj.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.suj.sorting" />
-      <option name="MAIN_CLASS_NAME" value="com.suj.sorting.BubbleSortTest" />
-      <option name="METHOD_NAME" value="sort" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelectionSortTest.sort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javalearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.suj.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.suj.sorting" />
-      <option name="MAIN_CLASS_NAME" value="com.suj.sorting.SelectionSortTest" />
-      <option name="METHOD_NAME" value="sort" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -560,19 +593,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.BubbleSortTest.sort" />
-      <item itemvalue="JUnit.SelectionSortTest.sort" />
-      <item itemvalue="JUnit.ArrayLessThanIndexSolverTest.getLessThanIndex" />
-      <item itemvalue="Application.ArrayLessThanIndexSolverTest" />
-      <item itemvalue="Application.CollectionsDemo" />
+      <item itemvalue="Application.BestDemoApp" />
+      <item itemvalue="Application.Solution1" />
+      <item itemvalue="Application.Solution1 (1)" />
+      <item itemvalue="Application.Solution1 (2)" />
+      <item itemvalue="Application.Solution1 (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectionsDemo" />
-        <item itemvalue="Application.ArrayLessThanIndexSolverTest" />
-        <item itemvalue="JUnit.ArrayLessThanIndexSolverTest.getLessThanIndex" />
-        <item itemvalue="JUnit.SelectionSortTest.sort" />
-        <item itemvalue="JUnit.BubbleSortTest.sort" />
+        <item itemvalue="Application.Solution1 (3)" />
+        <item itemvalue="Application.Solution1 (2)" />
+        <item itemvalue="Application.Solution1 (1)" />
+        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.BestDemoApp" />
       </list>
     </recent_temporary>
   </component>
@@ -590,6 +623,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e8a41031-8daf-47a1-b2e2-dab8a95340f0" name="Default" comment="" />
+      <changelist id="7b098031-0bd7-48c2-82c7-3586e43d627e" name="DONOTCOMMIT" comment="" />
       <created>1473505661132</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -598,7 +632,44 @@
       <workItem from="1540401670373" duration="3000" />
       <workItem from="1579270528356" duration="6650000" />
       <workItem from="1580881999037" duration="24000" />
+      <workItem from="1585560997985" duration="17496000" />
     </task>
+    <task id="LOCAL-00001" summary="Spring annotations example">
+      <created>1585563198138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585563198138</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Spring annotations example">
+      <created>1585565789294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585565789294</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Generics examples">
+      <created>1585567702238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585567702238</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HackerRank tests">
+      <created>1585577956476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585577956476</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HackerRank tests">
+      <created>1585582800452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585582800452</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -628,31 +699,30 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11449000" />
+    <option name="totallyTimeSpent" value="28945000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="85" width="2059" height="1251" extended-state="0" />
+    <frame x="53" y="51" width="2492" height="1308" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6760563" visible="true" weight="0.2860684" />
-      <window_info id="Structure" order="1" sideWeight="0.32394367" side_tool="true" visible="true" weight="0.2860684" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Nl-Palette" order="4" />
-      <window_info id="Palette&#9;" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="UI Designer" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74311924" visible="true" weight="0.23795918" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Nl-Palette" order="3" />
+      <window_info id="Palette&#9;" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.25690275" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38196287" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4976744" weight="0.4322183" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25616196" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39983237" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4976744" weight="0.43168482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5023256" side_tool="true" weight="0.432783" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.2912736" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32893157" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.29002514" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.39061192" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.5934619" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="12" />
       <window_info anchor="bottom" id="Spring" order="13" />
@@ -666,9 +736,10 @@
       <window_info anchor="right" id="Properties" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.10361923" />
+      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.6596815" visible="true" weight="0.13510203" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Structure" order="11" sideWeight="0.34031853" side_tool="true" visible="true" weight="0.13510203" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22115959" />
@@ -709,6 +780,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spring annotations example" />
+    <MESSAGE value="Generics examples" />
+    <MESSAGE value="HackerRank tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="HackerRank tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -765,6 +842,18 @@
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/sockmerchant/Solution1.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/repeatedstring/Solution1.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -773,241 +862,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/util/MyConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/problems/Fibonnaci1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/concurrent/executor/MyTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/functional/streams2/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="74" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="168" column="14" selection-start-line="168" selection-start-column="14" selection-end-line="168" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/collections/WordFrequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="55" column="62" selection-start-line="55" selection-start-column="62" selection-end-line="55" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/suj/problems/sumofcubes/Result2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/io/PrintWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../teamsearch/teamsearch.iml" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/net/ServerSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="126" column="11" selection-start-line="126" selection-start-column="11" selection-end-line="126" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/sockets/EchoServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/liftproblem/FloorBasedButtonPadController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/liftproblem/Mischa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/liftproblem/LiftService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/problems/SujMergeSortAttempt2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/concurrent/memorizer/Computable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/concurrent/memorizer/Memorizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="32" column="68" lean-forward="true" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/problems/MergeSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/problems/CopiedMergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/problems/SujMergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/collections/ComparatorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/suj/sorting/BubbleSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="41" selection-start-line="10" selection-start-column="8" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/sorting/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/suj/util/MyConfigTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/suj/sorting/SelectionSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/suj/lang/collections/MyMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/core/Is.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/sorting/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/generics/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/generics/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1032,16 +890,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/generics/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/deutsche/ArrayLessThanIndexSolver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1053,9 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1103,7 +948,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/functiondefs/MarketNewswire1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state>
           <caret line="5" column="28" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1128,7 +973,307 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/functiondefs/MarketNewswire2FuncDefs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/problems/bitwise/CopyOneBitPatternIntoAnother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/README.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/profilertest/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/pre-annotations1.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/withoutannotations/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="93" selection-start-line="15" selection-start-column="93" selection-end-line="15" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/annotations1/SpringDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="95" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/annotations1/MyAppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/CustomerDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/MyAppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/helloworld/SpringDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="82" lean-forward="true" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/bestdemoannotations/BestDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="84" selection-start-line="13" selection-start-column="84" selection-end-line="13" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/bestdemoannotations/BestDemoConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/bestdemoannotations/BestDemoDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/spring/bestdemoannotations/BestDemoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/functional/streams1/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="e#321#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/functional/streams2/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/functional/streams2/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1528">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="e#321#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/generics/GenericFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/generics/demo/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/generics/demo/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/generics/demo/Plant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/generics/demo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/generics/demo/TemplateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TimingNotes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/suj/lang/generics/GenericFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/sockmerchant/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/countingvalleys/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="61" column="49" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/repeatedstring/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/jumpingontheclouds/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="58" column="49" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/sockmerchant/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#130#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/repeatedstring/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="50" column="49" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="49" />
+          <folding>
+            <element signature="e#346#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/array2d/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="31" column="22" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/leftrotation/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
