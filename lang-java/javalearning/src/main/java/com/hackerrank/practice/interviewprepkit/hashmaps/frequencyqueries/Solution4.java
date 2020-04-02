@@ -14,7 +14,8 @@ import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
 // https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
-// ***** Still too slow
+// ***** This now works - the Map.containsValue(0 method of previous attempts was taking too long ( O[n] )
+
 @SuppressWarnings("Duplicates")
 public class Solution4 {
     // Complete the freqQuery function below.
@@ -50,7 +51,7 @@ public class Solution4 {
                 }
 
                 case 3: {
-                    if (mapOfFrequencies.containsKey(opVal))
+                    if (mapOfFrequencies.containsKey(Long.valueOf(opVal)) )
                         rv.add(1);
                     else
                         rv.add(0);
@@ -69,8 +70,11 @@ public class Solution4 {
     private static void updateFrequencyMap(Map<Long, List<Integer>> mapOfFrequencies, int opVal, long oldCount, long newCount) {
         if ( oldCount != 0 ) {
             List<Integer> list = mapOfFrequencies.get(oldCount);
-            if ( list != null )
+            if ( list != null ) {
                 list.remove(Integer.valueOf(opVal));
+                if ( list.size() == 0 )
+                    mapOfFrequencies.remove(oldCount);
+            }
         }
 
         if ( newCount != 0 ) {
@@ -110,6 +114,7 @@ public class Solution4 {
         List<Integer> ans = freqQuery(queries);
 
         bufferedWriter.write(
+        //System.out.println(
                 ans.stream()
                         .map(Object::toString)
                         .collect(joining("\n"))
