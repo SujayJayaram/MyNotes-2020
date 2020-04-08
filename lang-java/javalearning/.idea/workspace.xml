@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8a41031-8daf-47a1-b2e2-dab8a95340f0" name="Default" comment="DDD PDF">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversetext/StringUtilsReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversetext/StringUtilsReverseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/verifyispoweroftwo/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/verifyispoweroftwo/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="7b098031-0bd7-48c2-82c7-3586e43d627e" name="DONOTCOMMIT" comment="">
       <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.fxtest.iml.icloud" beforeDir="false" />
@@ -27,7 +29,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_0_0_M3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_0_0_M3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0_M1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.log.out.icloud" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/javalearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javalearning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/.javalearning.properties.icloud" beforeDir="false" />
@@ -94,27 +95,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="form" value="1" />
-          <entry key="java" value="109" />
+          <entry key="java" value="112" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="GUI_DESIGNER_FORM" value="1" />
-          <entry key="JAVA" value="109" />
+          <entry key="JAVA" value="112" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12276" />
+          <entry key="java" value="12493" />
           <entry key="txt" value="110" />
           <entry key="xml" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12276" />
+          <entry key="JAVA" value="12493" />
           <entry key="PLAIN_TEXT" value="110" />
           <entry key="XML" value="16" />
         </counts>
@@ -127,31 +128,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversetext/MyStringUtils.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/verifyispoweroftwo/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+            <state relative-caret-position="30">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversetext/StringUtilsReverseTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/verifyispoweroftwo/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -163,8 +155,8 @@
       <list>
         <option value="JUnit4 Test Class" />
         <option value="Enum" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -191,8 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/functiondefs/PriceListener.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/functiondefs/MarketNewswire1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suj/functiondefs/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suj/functiondefs/MarketNewswire2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suj/functiondefs/MarketNewswire2FuncDefs.java" />
@@ -242,6 +232,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversetext/MyStringUtilsTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversetext/StringUtilsReverseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/verifyispoweroftwo/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/verifyispoweroftwo/SolutionTest.java" />
       </list>
     </option>
   </component>
@@ -364,37 +356,67 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="connectedcolours" type="462c0819:PsiDirectoryNode" />
+              <item name="top30javainterviewquestions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="javalearning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="top30javainterviewquestions" type="462c0819:PsiDirectoryNode" />
               <item name="reversetext" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="top30javainterviewquestions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="top30javainterviewquestions" type="462c0819:PsiDirectoryNode" />
+              <item name="reversetext" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="top30javainterviewquestions" type="462c0819:PsiDirectoryNode" />
+              <item name="verifyispoweroftwo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
@@ -413,7 +435,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586333849667" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586347723580" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -427,6 +449,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.top30javainterviewquestions.verifyispoweroftwo" />
       <recent name="com.top30javainterviewquestions.reversetext" />
       <recent name="com.suj.deutsche" />
       <recent name="com.suj.sorting" />
@@ -455,7 +478,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StringUtilsReverseTest">
+  <component name="RunManager" selected="JUnit.SolutionTest">
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -513,20 +536,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.techlead.connectedcolours.Solution1" />
-      <module name="javalearning" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.techlead.connectedcolours.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.techlead.connectedcolours.Solution2" />
       <module name="javalearning" />
@@ -579,6 +588,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javalearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.top30javainterviewquestions.verifyispoweroftwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.top30javainterviewquestions.verifyispoweroftwo" />
+      <option name="MAIN_CLASS_NAME" value="com.top30javainterviewquestions.verifyispoweroftwo.SolutionTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringUtilsReverseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javalearning" />
       <extension name="coverage">
@@ -621,19 +646,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution1" />
       <item itemvalue="Application.Solution2" />
       <item itemvalue="JUnit.MyStringUtilsTest" />
       <item itemvalue="JUnit.MyStringUtilsTest (1)" />
       <item itemvalue="JUnit.StringUtilsReverseTest" />
+      <item itemvalue="JUnit.SolutionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest" />
         <item itemvalue="JUnit.StringUtilsReverseTest" />
         <item itemvalue="JUnit.MyStringUtilsTest" />
         <item itemvalue="JUnit.MyStringUtilsTest (1)" />
         <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.Solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -661,7 +686,7 @@
       <workItem from="1579270528356" duration="6650000" />
       <workItem from="1580881999037" duration="24000" />
       <workItem from="1585560997985" duration="49193000" />
-      <workItem from="1586272992142" duration="7277000" />
+      <workItem from="1586272992142" duration="8943000" />
     </task>
     <task id="LOCAL-00001" summary="Spring annotations example">
       <created>1585563198138</created>
@@ -761,25 +786,17 @@
       <option name="project" value="LOCAL" />
       <updated>1586333617578</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="DDD PDF">
+      <created>1586333932510</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1586333932510</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyStringUtilsTest_(1) - 2020.04.08 at 08h 53m 34s.xml">
-      <configuration name="MyStringUtilsTest (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyStringUtilsTest_(1) - 2020.04.08 at 08h 54m 16s.xml">
-      <configuration name="MyStringUtilsTest (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyStringUtilsTest - 2020.04.08 at 08h 56m 14s.xml">
-      <configuration name="MyStringUtilsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyStringUtilsTest - 2020.04.08 at 08h 57m 31s.xml">
-      <configuration name="MyStringUtilsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyStringUtilsTest - 2020.04.08 at 08h 58m 44s.xml">
-      <configuration name="MyStringUtilsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MyStringUtilsTest - 2020.04.08 at 09h 05m 29s.xml">
       <configuration name="MyStringUtilsTest" configurationId="JUnit" />
     </history-entry>
@@ -795,9 +812,24 @@
     <history-entry file="StringUtilsReverseTest - 2020.04.08 at 09h 15m 26s.xml">
       <configuration name="StringUtilsReverseTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StringUtilsReverseTest - 2020.04.08 at 09h 16m 55s.xml">
+      <configuration name="StringUtilsReverseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringUtilsReverseTest - 2020.04.08 at 09h 17m 55s.xml">
+      <configuration name="StringUtilsReverseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.04.08 at 13h 07m 57s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.04.08 at 13h 08m 21s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.04.08 at 13h 08m 41s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67919000" />
+    <option name="totallyTimeSpent" value="69585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="25" width="2492" height="1308" extended-state="0" />
@@ -1017,20 +1049,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/generics/demo/Plant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/generics/demo/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/suj/lang/generics/demo/TemplateDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1376,13 +1394,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversetext/MyStringUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
@@ -1400,10 +1411,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversetext/MyStringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversetext/StringUtilsReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" lean-forward="true" selection-start-line="1" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/verifyispoweroftwo/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/verifyispoweroftwo/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
