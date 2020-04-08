@@ -12,11 +12,11 @@ import static org.junit.Assert.assertEquals;
 
 @RunWith(Parameterized.class)
 public class StringUtilsReverseTest {
-    @Parameterized.Parameters(name = "({index}): reverse({1})={0}")
+    @Parameterized.Parameters
     public static Collection<Object[]> data() {
         return Arrays.asList(new Object[][] {
-                { "fred", "derf" },
-                { "tom", "mot" }
+                { "fred", "derf", "Test 1" },
+                { "tom", "mot", "Test 2" }
         });
     }
 
@@ -26,9 +26,12 @@ public class StringUtilsReverseTest {
     @Parameterized.Parameter(value = 1)
     public String input;
 
+    @Parameterized.Parameter(value = 2)
+    public String message;
+
     @Test
     public void reverse() {
-        System.out.println("reverse() called");
+        System.out.println("reverse() called: " + message);
         assertEquals(expected, StringUtils.reverse(input));
     }
 }
