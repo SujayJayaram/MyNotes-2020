@@ -2,7 +2,14 @@ import React from 'react';
 
 import './App.css';
 
+// Used to render just a square.
 function Square(props) {
+
+    // The HTML that is returned is placed in parenthesis
+    // The container that creates this element (the Board)
+    // will define a method for onClick in props and that
+    // is used here (we can use the abberviation form for
+    // the onClick={props.onClick}
     return (
         <button className="square" onClick={props.onClick}>
             {props.value}
@@ -12,6 +19,11 @@ function Square(props) {
 
 class Board extends React.Component {
     renderSquare(i) {
+        // We cannot use the abbreviated form of function
+        // for onClick as we define a new function each time
+        // using the (i) variable.
+        // The this.props.onClick function is defined by props
+        // (e.g. by the containing element -> the App)
         return (
             <Square
                 value={this.props.squares[i]}
@@ -44,9 +56,13 @@ class Board extends React.Component {
 }
 
 // The Game itself
+// https://reactjs.org/tutorial/tutorial.html#overview
 class App extends React.Component {
+  // Ctr called with props as it's defined
     constructor(props) {
         super(props);
+
+        // create initial state
         this.state = {
             history: [
                 {
@@ -58,6 +74,7 @@ class App extends React.Component {
         };
     }
 
+    // Bound in render() method.
     handleClick(i) {
         const history = this.state.history.slice(0, this.state.stepNumber + 1);
         const current = history[history.length - 1];
@@ -107,6 +124,7 @@ class App extends React.Component {
             status = "Next player: " + (this.state.xIsNext ? "X" : "O");
         }
 
+        // Look at the onClick function that is passed into the child Board
         return (
             <div className="game">
               <div className="game-board">
