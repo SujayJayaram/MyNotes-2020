@@ -3,7 +3,10 @@ import logo from './logo.svg';
 import './Sujay.css';
 
 import MyButton from './mydir/MyButton';
+import Items from './mydir/Items';
 
+// For rest calls see https://pusher.com/tutorials/consume-restful-api-react
+// https://github.com/fisayoafolayan/consuming-restful-api-in-react
 function Sujay() {
   return (
     <div className="App">
@@ -21,6 +24,7 @@ function Sujay() {
           Learn React Sujay!
         </a>
         <MyButton mood="happy"/>
+        <Items />
       </header>
     </div>
   );
