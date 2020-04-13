@@ -24,10 +24,12 @@ class Board extends React.Component {
         // using the (i) variable.
         // The this.props.onClick function is defined by props
         // (e.g. by the containing element -> the App)
+        // Each Square calls onSquareClicked() with a different
+        // (hard coded) value for i.
         return (
             <Square
                 value={this.props.squares[i]}
-                onClick={() => this.props.onClick(i)}
+                onClick={() => this.props.onSquareClicked(i)}
             />
         );
     }
@@ -124,13 +126,14 @@ class App extends React.Component {
             status = "Next player: " + (this.state.xIsNext ? "X" : "O");
         }
 
-        // Look at the onClick function that is passed into the child Board
+        // Look at the onSquareClicked function that is passed into the child Board element.
+        // It is a function that takes a parameter (i) and is called by the Square class.
         return (
             <div className="game">
               <div className="game-board">
                 <Board
                     squares={current.squares}
-                    onClick={i => this.handleClick(i)}
+                    onSquareClicked={i => this.handleClick(i)}
                 />
               </div>
               <div className="game-info">
