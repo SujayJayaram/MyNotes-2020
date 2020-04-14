@@ -6,6 +6,11 @@ npx create-react-app first-redux-app --template redux
 
 npm install react-router-dom (**** I have to do this from the project directory of the project needing this)
 
+
+To add TypeScript
+see https://create-react-app.dev/docs/adding-typescript/
+
+
 OUTPUT
 ------
 Success! Created my-first-react-app at /Users/sujayjayaram/Library/Mobile Documents/com~apple~CloudDocs/dev-github/MyNotes-2020/lang-javascript/react/my-first-react-app

@@ -1,8 +1,5 @@
 import React from 'react';
 
-import { useState, useEffect } from 'react';
-
-
 // {match} comes from the <Route> in App.js
 function ItemDetail( {match} ) {
 
