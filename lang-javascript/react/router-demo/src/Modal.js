@@ -29,6 +29,9 @@ class Modal extends React.Component {
             padding: 30
         };
 
+        // There are two divs created - the backgrop div occupies the whole
+        // screen space and is semi transparent - that is why nothing underneath
+        // it can receive events.
         return (
             <div className="backdrop" style={backdropStyle}>
                 <div className="modal" style={modalStyle}>
