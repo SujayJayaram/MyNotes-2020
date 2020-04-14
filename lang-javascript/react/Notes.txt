@@ -4,6 +4,8 @@ npx create-react-app my-first-react-app
 
 npx create-react-app first-redux-app --template redux
 
+npm install react-router-dom
+
 OUTPUT
 ------
 Success! Created my-first-react-app at /Users/sujayjayaram/Library/Mobile Documents/com~apple~CloudDocs/dev-github/MyNotes-2020/lang-javascript/react/my-first-react-app
