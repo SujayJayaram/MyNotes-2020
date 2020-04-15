@@ -10,6 +10,9 @@ npm install react-router-dom (**** I have to do this from the project directory 
 To add TypeScript
 see https://create-react-app.dev/docs/adding-typescript/
 
+To add redux to an existing project
+npm install @reduxjs/toolkit
+
 
 OUTPUT
 ------

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import Modal from './Modal';
+import ChildPassedObjectProps from './ChildPassedObjectProps'
 
 class About extends Component {
     constructor(props) {
@@ -15,7 +16,13 @@ class About extends Component {
         });
     }
 
+    callMe() {
+        alert("This is called");
+    }
+
     render() {
+        const myProps = {fname: 'Joe', lname: 'Blogs!', callMe: this.callMe};
+
         return (
             <div>
                 <h1>About Page3</h1>
@@ -27,6 +34,8 @@ class About extends Component {
                        onClose={this.toggleModal}>
                     Here's some content for the modal
                 </Modal>
+
+                <ChildPassedObjectProps myProps={myProps}/>
             </div>
         );
     }
