@@ -21,6 +21,8 @@ public class Essentials {
         //
         // Collections.sort();
         //
+        // Character.toString(digit)
+        //
         // System.arraycopy();
 
         {

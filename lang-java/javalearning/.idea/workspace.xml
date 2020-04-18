@@ -1,39 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8a41031-8daf-47a1-b2e2-dab8a95340f0" name="Default" comment="DDD PDF">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversealinkedlist/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversealinkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversealinkedlist/LinkedListTest.java" afterDir="false" />
+    <list default="true" id="e8a41031-8daf-47a1-b2e2-dab8a95340f0" name="Default" comment="Hired coding test">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/ishappynumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/isprimenumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/wordispalindrome/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/wordispalindrome/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Essentials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Essentials.java" afterDir="false" />
     </list>
     <list id="7b098031-0bd7-48c2-82c7-3586e43d627e" name="DONOTCOMMIT" comment="">
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.fxtest.iml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.idea/.compiler.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.idea/.encodings.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.idea/.misc.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.idea/.modules.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/fxtest/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/sample/.idea/.compiler.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/sample/.idea/.encodings.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/sample/.idea/.misc.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/sample/.idea/.modules.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/sample/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/bbva/sample/.sample.iml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/.carhire.zip.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/interview/.idea/.compiler.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/interview/.idea/.encodings.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/interview/.idea/.misc.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/interview/.idea/.modules.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/interview/.interview.iml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interviews-etc/standardchartered/interview/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_0_0_M3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_0_0_M3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0_M1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.log.out.icloud" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/javalearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javalearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/.javalearning.properties.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/.log4j.properties.icloud" beforeDir="false" />
     </list>
     <ignored path="javalearning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,36 +65,43 @@
     <session id="1608337060">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.90" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="2" />
           <entry key="form" value="1" />
-          <entry key="java" value="115" />
+          <entry key="java" value="150" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="2" />
           <entry key="GUI_DESIGNER_FORM" value="1" />
-          <entry key="JAVA" value="115" />
+          <entry key="JAVA" value="150" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="13925" />
-          <entry key="txt" value="110" />
+          <entry key="java" value="23933" />
+          <entry key="txt" value="138" />
           <entry key="xml" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13925" />
-          <entry key="PLAIN_TEXT" value="110" />
+          <entry key="JAVA" value="23933" />
+          <entry key="PLAIN_TEXT" value="138" />
           <entry key="XML" value="16" />
         </counts>
       </usages-collector>
@@ -128,41 +112,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversealinkedlist/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-              <folding>
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversealinkedlist/LinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/ishappynumber/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="225">
+              <caret line="15" column="46" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="67" />
               <folding>
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversealinkedlist/LinkedListTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Essentials.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="300">
+              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -174,8 +140,8 @@
       <list>
         <option value="JUnit4 Test Class" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -188,12 +154,15 @@
       <find>SuppressWarnings</find>
       <find>toArra</find>
       <find>suppress</find>
+      <find>Collectors</find>
       <find>duplicate</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/main/java/com/suj</dir>
       <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$/src/main/java</dir>
+      <dir>$PROJECT_DIR$/src/main</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -202,26 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/withoutannotations/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/CustomerService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/annotations2/MyAppConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/bestdemoannotations/BestDemoApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/bestdemoannotations/BestDemoConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/bestdemoannotations/BestDemoDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/spring/bestdemoannotations/BestDemoService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/lang/functional/streams1/Demo2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/lang/functional/streams2/Demo1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/lang/functional/streams2/Demo2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/lang/generics/GenericFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/suj/lang/generics/demo/TemplateDemo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/suj/lang/generics/GenericFactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/sockmerchant/Solution1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/sockmerchant/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/countingvalleys/Solution1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/jumpingontheclouds/Solution1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/repeatedstring/Solution1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/repeatedstring/Solution2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/array2d/Solution1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/leftrotation/Solution1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/newyearchaos/Solution1.java" />
@@ -231,7 +180,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/ransomenote/Solution2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/twostrings/Solution1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/sherlockandanagrams/Solution1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Essentials.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/frequencyqueries/Solution1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/frequencyqueries/Solution2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/frequencyqueries/Solution3.java" />
@@ -253,6 +201,27 @@
         <option value="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversealinkedlist/Node.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversealinkedlist/LinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversealinkedlist/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algoexpert/numberofrectanglesmadebypoints/Point.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algoexpert/numberofrectanglesmadebypoints/RectangleCounter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/algoexpert/numberofrectanglesmadebypoints/RectangleCounterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hired/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hired/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hired/sampletest1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hired/sampletest1/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/dynamicprogramming/maxarraysum/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/dynamicprogramming/maxarraysum/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hired/assessment1/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hired/assessment1/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hired/assessment1/Solution3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hired/assessment1/fibonnaci/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hired/assessment1/maze/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/wordispalindrome/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/wordispalindrome/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/isprimenumber/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/ishappynumber/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Essentials.java" />
       </list>
     </option>
   </component>
@@ -286,10 +255,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="25" />
-    <option name="width" value="2492" />
-    <option name="height" value="1308" />
+    <option name="x" value="210" />
+    <option name="y" value="57" />
+    <option name="width" value="2151" />
+    <option name="height" value="1304" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -328,13 +297,16 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -377,60 +349,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="top30javainterviewquestions" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="top30javainterviewquestions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="top30javainterviewquestions" type="462c0819:PsiDirectoryNode" />
-              <item name="reversetext" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javalearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="top30javainterviewquestions" type="462c0819:PsiDirectoryNode" />
-              <item name="verifyispoweroftwo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javalearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -444,7 +362,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586356437378" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587208525905" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -458,21 +376,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.top30javainterviewquestions.wordispalindrome" />
+      <recent name="com.top30javainterviewquestions" />
+      <recent name="com.algoexpert.numberofrectanglesmadebypoints" />
       <recent name="com.top30javainterviewquestions.reversealinkedlist" />
       <recent name="com.top30javainterviewquestions.verifyispoweroftwo" />
-      <recent name="com.top30javainterviewquestions.reversetext" />
-      <recent name="com.suj.deutsche" />
-      <recent name="com.suj.sorting" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.techlead.connectedcolours" />
-      <recent name="com.amazoninterviews.flood.solution2" />
-      <recent name="com.hackerrank.practice.interviewprepkit.hashmaps.counttriplets" />
-      <recent name="com.hackerrank.practice.interviewprepkit.hashmaps.frequencyqueries" />
-      <recent name="com.hackerrank.practice.interviewprepkit.hashmaps.ransomenote" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hired.assessment1" />
+      <recent name="com.hackerrank.practice.interviewprepkit.dynamicprogramming.maxarraysum" />
+      <recent name="com.techlead.connectedcolours" />
+      <recent name="com.amazoninterviews.flood.solution2" />
+      <recent name="com.hackerrank.practice.interviewprepkit.hashmaps.counttriplets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -487,7 +405,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LinkedListTest.reverse">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -545,58 +463,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hired.assessment1.fibonnaci.Solution" />
+      <module name="javalearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hired.assessment1.fibonnaci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.top30javainterviewquestions.ishappynumber.Solution" />
+      <module name="javalearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.top30javainterviewquestions.ishappynumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.top30javainterviewquestions.isprimenumber.Solution" />
+      <module name="javalearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.top30javainterviewquestions.isprimenumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hired.assessment1.Solution3" />
+      <module name="javalearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hired.assessment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListTest.reverse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javalearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.top30javainterviewquestions.reversealinkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.top30javainterviewquestions.reversealinkedlist" />
-      <option name="MAIN_CLASS_NAME" value="com.top30javainterviewquestions.reversealinkedlist.LinkedListTest" />
-      <option name="METHOD_NAME" value="reverse" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyStringUtilsTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javalearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.top30javainterviewquestions.reversetext.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.top30javainterviewquestions.reversetext" />
-      <option name="MAIN_CLASS_NAME" value="com.top30javainterviewquestions.reversetext.MyStringUtilsTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyStringUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javalearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.top30javainterviewquestions.reversetext.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.top30javainterviewquestions.reversetext" />
-      <option name="MAIN_CLASS_NAME" value="com.top30javainterviewquestions.reversetext.MyStringUtilsTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -605,28 +529,12 @@
       <module name="javalearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.top30javainterviewquestions.verifyispoweroftwo.*" />
+          <option name="PATTERN" value="com.top30javainterviewquestions.wordispalindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.top30javainterviewquestions.verifyispoweroftwo" />
-      <option name="MAIN_CLASS_NAME" value="com.top30javainterviewquestions.verifyispoweroftwo.SolutionTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringUtilsReverseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javalearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.top30javainterviewquestions.reversetext.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.top30javainterviewquestions.reversetext" />
-      <option name="MAIN_CLASS_NAME" value="com.top30javainterviewquestions.reversetext.StringUtilsReverseTest" />
+      <option name="PACKAGE_NAME" value="com.top30javainterviewquestions.wordispalindrome" />
+      <option name="MAIN_CLASS_NAME" value="com.top30javainterviewquestions.wordispalindrome.SolutionTest" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -659,19 +567,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MyStringUtilsTest" />
-      <item itemvalue="JUnit.MyStringUtilsTest (1)" />
-      <item itemvalue="JUnit.StringUtilsReverseTest" />
+      <item itemvalue="Application.Solution3" />
+      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="JUnit.SolutionTest" />
-      <item itemvalue="JUnit.LinkedListTest.reverse" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LinkedListTest.reverse" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="JUnit.SolutionTest" />
-        <item itemvalue="JUnit.StringUtilsReverseTest" />
-        <item itemvalue="JUnit.MyStringUtilsTest" />
-        <item itemvalue="JUnit.MyStringUtilsTest (1)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution3" />
       </list>
     </recent_temporary>
   </component>
@@ -699,7 +607,11 @@
       <workItem from="1579270528356" duration="6650000" />
       <workItem from="1580881999037" duration="24000" />
       <workItem from="1585560997985" duration="49193000" />
-      <workItem from="1586272992142" duration="12140000" />
+      <workItem from="1586272992142" duration="15729000" />
+      <workItem from="1586719260428" duration="594000" />
+      <workItem from="1586800289722" duration="7000" />
+      <workItem from="1586943841349" duration="3917000" />
+      <workItem from="1587034704235" duration="27815000" />
     </task>
     <task id="LOCAL-00001" summary="Spring annotations example">
       <created>1585563198138</created>
@@ -813,49 +725,70 @@
       <option name="project" value="LOCAL" />
       <updated>1586347736415</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="DDD PDF">
+      <created>1586356452032</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1586356452033</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Coding Test">
+      <created>1586951383328</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1586951383330</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Hired coding test">
+      <created>1587143399731</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587143399731</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringUtilsReverseTest - 2020.04.08 at 09h 10m 59s.xml">
-      <configuration name="StringUtilsReverseTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_(1) - 2020.04.17 at 12h 14m 07s.xml">
+      <configuration name="SolutionTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringUtilsReverseTest - 2020.04.08 at 09h 13m 21s.xml">
-      <configuration name="StringUtilsReverseTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_reverse - 2020.04.17 at 12h 16m 58s.xml">
+      <configuration name="SolutionTest.reverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringUtilsReverseTest - 2020.04.08 at 09h 14m 54s.xml">
-      <configuration name="StringUtilsReverseTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_reverse - 2020.04.17 at 12h 17m 51s.xml">
+      <configuration name="SolutionTest.reverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringUtilsReverseTest - 2020.04.08 at 09h 15m 26s.xml">
-      <configuration name="StringUtilsReverseTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_reverse - 2020.04.17 at 12h 23m 53s.xml">
+      <configuration name="SolutionTest.reverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringUtilsReverseTest - 2020.04.08 at 09h 16m 55s.xml">
-      <configuration name="StringUtilsReverseTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_reverse - 2020.04.17 at 12h 25m 26s.xml">
+      <configuration name="SolutionTest.reverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringUtilsReverseTest - 2020.04.08 at 09h 17m 55s.xml">
-      <configuration name="StringUtilsReverseTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest_reverse - 2020.04.17 at 12h 26m 28s.xml">
+      <configuration name="SolutionTest.reverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2020.04.08 at 13h 07m 57s.xml">
+    <history-entry file="SolutionTest_reverse - 2020.04.17 at 12h 26m 58s.xml">
+      <configuration name="SolutionTest.reverse" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2020.04.17 at 18h 31m 25s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2020.04.08 at 13h 08m 21s.xml">
+    <history-entry file="SolutionTest - 2020.04.17 at 18h 32m 10s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2020.04.08 at 13h 08m 41s.xml">
+    <history-entry file="SolutionTest - 2020.04.17 at 18h 35m 02s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinkedListTest_reverse - 2020.04.08 at 15h 33m 25s.xml">
-      <configuration name="LinkedListTest.reverse" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72782000" />
+    <option name="totallyTimeSpent" value="108704000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="25" width="2492" height="1308" extended-state="0" />
+    <frame x="210" y="57" width="2151" height="1304" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74311924" visible="true" weight="0.23959184" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74311924" visible="true" weight="0.28219432" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -864,15 +797,15 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.255658" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38390613" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4976744" weight="0.43168482" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30826446" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49744305" weight="0.41157025" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5023256" side_tool="true" weight="0.432783" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.48952222" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.20704107" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.28583404" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.502557" side_tool="true" weight="0.37685952" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.4892562" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.20661157" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.33801654" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="12" />
       <window_info anchor="bottom" id="Spring" order="13" />
@@ -886,10 +819,10 @@
       <window_info anchor="right" id="Properties" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.6588433" visible="true" weight="0.13469388" />
+      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.6535245" visible="true" weight="0.15341702" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" />
-      <window_info anchor="right" id="Structure" order="11" sideWeight="0.34115675" side_tool="true" visible="true" weight="0.13469388" />
+      <window_info anchor="right" id="Structure" order="11" sideWeight="0.3464755" side_tool="true" visible="true" weight="0.15341702" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22115959" />
@@ -938,7 +871,9 @@
     <MESSAGE value="Tech Lead tests" />
     <MESSAGE value="Parametrised tests" />
     <MESSAGE value="DDD PDF" />
-    <option name="LAST_COMMIT_MESSAGE" value="DDD PDF" />
+    <MESSAGE value="Coding Test" />
+    <MESSAGE value="Hired coding test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hired coding test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1067,6 +1002,60 @@
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hired/sampletest1/Solution.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/Solution.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/SolutionTest.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hired/assessment1/Solution.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hired/assessment1/Solution3.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hired/assessment1/Solution3.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hired/assessment1/Solution3.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/ishappynumber/Solution.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/ishappynumber/Solution.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1075,200 +1064,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/sockmerchant/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/countingvalleys/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="61" column="49" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/repeatedstring/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/jumpingontheclouds/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="58" column="49" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/sockmerchant/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/warmupchallenges/repeatedstring/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="50" column="49" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/newyearchaos/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/leftrotation/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/array2d/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="57" column="49" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="1858" column="19" selection-start-line="1858" selection-start-column="19" selection-end-line="1858" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/arraymanipulation/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/suj/lang/collections/MyMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/arrays/arraymanipulation/SolutionFromForum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/ransomenote/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/ransomenote/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="124" column="6" selection-start-line="124" selection-start-column="6" selection-end-line="124" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/twostrings/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="405" column="25" selection-start-line="405" selection-start-column="25" selection-end-line="405" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/sherlockandanagrams/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="21" column="62" lean-forward="true" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
-          <folding>
-            <element signature="e#2807#2824#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="287" column="12" selection-start-line="287" selection-start-column="12" selection-end-line="287" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Essentials.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/frequencyqueries/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/frequencyqueries/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="194" column="12" selection-start-line="194" selection-start-column="12" selection-end-line="194" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/frequencyqueries/Solution4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="92" column="81" lean-forward="true" selection-start-line="92" selection-start-column="81" selection-end-line="92" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/frequencyqueries/Solution3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/hashmaps/counttriplets/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1284,9 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="33" column="67" lean-forward="true" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
-          <folding>
-            <element signature="e#533#564#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1406,10 +1198,196 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversetext/MyStringUtilsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversetext/MyStringUtilsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversetext/StringUtilsReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="24" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="24" />
+        <state relative-caret-position="555">
+          <caret line="37" lean-forward="true" selection-start-line="1" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversealinkedlist/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversealinkedlist/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversealinkedlist/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/verifyispoweroftwo/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="1" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algoexpert/numberofrectanglesmadebypoints/RectangleCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="235" column="23" selection-start-line="235" selection-start-column="23" selection-end-line="235" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algoexpert/numberofrectanglesmadebypoints/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/algoexpert/numberofrectanglesmadebypoints/RectangleCounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hired/sampletest1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hired/sampletest1/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="528" column="30" selection-start-line="528" selection-start-column="30" selection-end-line="528" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="558" column="8" selection-start-line="558" selection-start-column="8" selection-end-line="558" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.xml/javax/xml/stream/events/Characters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/dynamicprogramming/maxarraysum/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" column="103" selection-start-line="33" selection-start-column="103" selection-end-line="33" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/practice/interviewprepkit/dynamicprogramming/maxarraysum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1984#1985#0" expanded="true" />
+            <element signature="e#2038#2039#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.6.1/junit-jupiter-api-5.6.1.jar!/org/junit/jupiter/api/Assertions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="128" column="23" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+          <folding>
+            <element signature="e#3847#3848#0" expanded="true" />
+            <element signature="e#3906#3907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hired/assessment1/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hired/assessment1/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#32#63#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hired/assessment1/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hired/assessment1/fibonnaci/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#1315#1316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hired/assessment1/maze/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1423,13 +1401,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversetext/StringUtilsReverseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/wordispalindrome/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" lean-forward="true" selection-start-line="1" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/wordispalindrome/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -1440,45 +1422,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/verifyispoweroftwo/SolutionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/isprimenumber/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2271">
+          <caret line="665" column="25" selection-start-line="665" selection-start-column="25" selection-end-line="665" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="1046" column="26" selection-start-line="1046" selection-start-column="26" selection-end-line="1046" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Essentials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/ishappynumber/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="46" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversealinkedlist/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/top30javainterviewquestions/reversealinkedlist/LinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/top30javainterviewquestions/reversealinkedlist/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
           </folding>
         </state>
       </provider>
