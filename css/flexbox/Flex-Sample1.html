@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    .outerWrapper {
+        display: flex;
+        background: red;
+        flex-direction: column;
+        height: 100vh;
+    }
+    
+    .header {
+        display: flex;
+        flex-direction: row;
+        background-color: DodgerBlue;
+        height: 60px;
+        
+        /* Vertical Align - depends upon flex-direction too */
+        align-items: center;
+        
+        /* Horizontal Align - depends upon flex-direction too */
+        justify-content: center; 
+        
+    }
+    
+    .nav {
+        display: flex;
+        flex-direction: column;
+        background-color: Aquamarine;
+        width: 200px;
+        height: 100%;
+        
+        /* Horizontal Align - depends upon flex-direction too */
+        align-items: center;
+        
+        
+    }
+    
+    .navItem {
+        
+        background-color: Coral;
+        width: 100%;
+        
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .navItem:hover {
+        background-color: Cyan;
+        cursor: pointer;
+    }
+    
+    .footer {
+        background: AliceBlue;
+        margin-bottom: 10px;
+        margin-top: auto;
+        height: 100px;
+        
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end; 
+        padding-right: 10px;
+    }
+    
+</style>
+</head>
+<body>
+
+<div class="outerWrapper">
+    <div class="header">
+        HeaderDiv
+    </div>
+    
+    <div class="nav">
+        <div class="navItem">Nav Div Items</div>
+        <div class="navItem">Nav Div Items</div>
+        <div class="navItem" style="margin-bottom: 5px; margin-top: auto">Bottom Nav Div Items</div>
+    </div>
+    
+    <div class="footer">Footer</div>
+</div>
+</body>
+</html>
