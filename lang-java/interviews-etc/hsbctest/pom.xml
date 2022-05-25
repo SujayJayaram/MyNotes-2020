@@ -8,7 +8,7 @@
     <artifactId>sujay-interview</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <spring.version>4.0.5.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
     </properties>
 
     <build>
